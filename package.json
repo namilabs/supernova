@@ -1,0 +1,6 @@
+ {
+    "private": true,
+    "name": "namilabs-monorepo",
+    "workspaces": ["kuja", "hawkins"],
+    "scripts": {}
+ }
